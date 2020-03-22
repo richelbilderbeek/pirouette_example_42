@@ -37,15 +37,15 @@ Pull Requests should follow the same guidelines as 'Submitting code'.
 
 ## git usage
 
-To get started working on `pirouette_example_32` do:
+To get started working on `pirouette_example_42` do:
 
 ```
-git clone https://github.com/richelbilderbeek/pirouette_example_32
+git clone https://github.com/richelbilderbeek/pirouette_example_42
 ```
 
 Development is done on the `develop` branch. 
 To download and checkout the `develop` branch, 
-first go into the `pirouette` folder (`cd pirouette_example_32`), then do:
+first go into the `pirouette` folder (`cd pirouette_example_42`), then do:
 
 ```
 git checkout develop

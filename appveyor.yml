@@ -42,7 +42,7 @@ test_script:
   - travis-tool.sh run_tests
 
 after_test:
-  - Rscript example_32.R
+  - Rscript example_42.R
 
 on_failure:
   - 7z a failure.zip *.Rcheck\*

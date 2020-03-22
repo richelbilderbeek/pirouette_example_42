@@ -9,7 +9,7 @@ library(testthat)
 library(ggplot2)
 
 # Constants
-example_no <- 32
+example_no <- 42
 rng_seed <- 314
 crown_age <- 10
 n_taxa <- 40
