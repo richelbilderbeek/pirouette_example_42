@@ -13,7 +13,7 @@ example_no <- 42
 rng_seed <- 314
 crown_age <- 10
 n_taxa <- 40
-n_phylogenies <- 5
+n_phylogenies <- 50
 folder_name <- paste0("example_", example_no)
 is_testing <- is_on_ci()
 if (is_testing) {
